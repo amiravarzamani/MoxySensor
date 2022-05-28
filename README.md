@@ -9,14 +9,9 @@ I have created this tutorial to help the developers use Python to decode Hear Ra
 # Code
 Moxy company (https://www.moxymonitor.com/) has provided the Matlab code (https://my.moxymonitor.com/hubfs/documents/ANT%20Analog%20Manual.pdf) but there was a gap for Python developers to be able to use the device. So, this tutorial is for them.
 
-| ANT+ Profile | Abbreviation | Profile Number | 
-| :---: | :---: | :---: | 
-| NONE | NONE | 0 |
-| Muscle Oxygen | MO2 | 1 |
-| Heart Rate | HR | 2 |
+| ANT+ Profile | Abbreviation | Profile Number | Value Range |
+| :---: | :---: | :---: | :---: | 
+| NONE | NONE | 0 | 0 |
+| Muscle Oxygen | MO2 | 1 | 0% to 100% |
+| Heart Rate | HR | 2 | 0 to 256 BPM |
 
-
-| ANT+ Profile | Profile Number | Value Range |
-| :---: | :---: | :---: | 
-| Muscle Oxygen | 1 | 0% to 100% |
-| Heart Rate | 2 | 0 to 256 BPM |
