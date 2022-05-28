@@ -16,3 +16,7 @@ Moxy company (https://www.moxymonitor.com/) has provided the Matlab code (https:
 | Heart Rate | HR | 2 |
 
 
+| ANT+ Profile | Profile Number | Value Range |
+| :---: | :---: | :---: | 
+| Muscle Oxygen | 1 | 0% to 100% |
+| Heart Rate | 2 | 0 to 256 BPM |
