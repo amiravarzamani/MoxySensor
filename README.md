@@ -9,10 +9,9 @@ I have created this tutorial to help the developers use Python to decode Hear Ra
 # Code
 Moxy company (https://www.moxymonitor.com/) has provided the Matlab code (https://my.moxymonitor.com/hubfs/documents/ANT%20Analog%20Manual.pdf) but there was a gap for Python developers to be able to use the device. So, this tutorial is for them.
 
-| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-
+| ANT+ Profile | Abbreviation | Profile Number | 
+| :---: | :---: | :---: | 
+| Seconds | 301 | 283 | 
 
 
 
