@@ -152,7 +152,9 @@ def Send_Serial_Command(command):
 ###########################################
 Send_Serial_Command("stop")
 Send_Serial_Command("\r\n")
+#command: profile [channel] [profile number]
 Send_Serial_Command("profile 1 1\r\n")
+#command: sensor [channel] [sensor number]
 Send_Serial_Command("sensor 1 247\r\n")
 
 
