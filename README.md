@@ -14,6 +14,5 @@ Moxy company (https://www.moxymonitor.com/) has provided the Matlab code (https:
 | NONE | NONE | 0 |
 | Muscle Oxygen | MO2 | 1 |
 | Heart Rate | HR | 2 |
-| :---: | :---: | :---: | 
 
 
