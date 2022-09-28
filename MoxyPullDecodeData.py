@@ -14,6 +14,7 @@ mask4 = BitArray('0x0F')
 mask2 = BitArray('0x0C')
 sensor_id = 0
 ###########################################
+##Insert into the SqlLite Database#########
 def Insert_Data_To_DB(sid , val_smo2 , val_thb):
     try:
         con = lite.connect('/sensorsData.db')
@@ -32,6 +33,7 @@ def Insert_Data_To_DB(sid , val_smo2 , val_thb):
         if con:
             con.close()
 ###########################################
+##For debuging purpose#####################
 def displayData():
     print("Displaying.....")
     try:
